@@ -24,3 +24,5 @@ Gerencia um grupo de ate 5 pessoas. Ela controla quem entra no time, lista todo 
 Serve para rodar o programa, criar o departamento e testar se os metodos estão funcionando.
 
 # João Gabriel Lopes Alvarenga / 2° Período
+
+Projeto atualizado via Git Bash.
